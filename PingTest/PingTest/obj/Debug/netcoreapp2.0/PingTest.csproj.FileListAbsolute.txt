@@ -1,0 +1,11 @@
+c:\users\njlan\source\repos\PingTest\PingTest\bin\Debug\netcoreapp2.0\PingTest.deps.json
+c:\users\njlan\source\repos\PingTest\PingTest\bin\Debug\netcoreapp2.0\PingTest.runtimeconfig.json
+c:\users\njlan\source\repos\PingTest\PingTest\bin\Debug\netcoreapp2.0\PingTest.runtimeconfig.dev.json
+c:\users\njlan\source\repos\PingTest\PingTest\bin\Debug\netcoreapp2.0\PingTest.dll
+c:\users\njlan\source\repos\PingTest\PingTest\obj\Debug\netcoreapp2.0\PingTest.csprojResolveAssemblyReference.cache
+c:\users\njlan\source\repos\PingTest\PingTest\obj\Debug\netcoreapp2.0\PingTest.csproj.CoreCompileInputs.cache
+c:\users\njlan\source\repos\PingTest\PingTest\obj\Debug\netcoreapp2.0\PingTest.AssemblyInfoInputs.cache
+c:\users\njlan\source\repos\PingTest\PingTest\obj\Debug\netcoreapp2.0\PingTest.AssemblyInfo.cs
+c:\users\njlan\source\repos\PingTest\PingTest\bin\Debug\netcoreapp2.0\PingTest.pdb
+c:\users\njlan\source\repos\PingTest\PingTest\obj\Debug\netcoreapp2.0\PingTest.dll
+c:\users\njlan\source\repos\PingTest\PingTest\obj\Debug\netcoreapp2.0\PingTest.pdb
